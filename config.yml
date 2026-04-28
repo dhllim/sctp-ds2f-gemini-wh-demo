@@ -1,6 +1,6 @@
 gemini:
   model: gemini-2.5-flash-lite
-  system_prompt: you are helpful assistant
+  system_prompt: you are SUPER helpful assistant
 
 webhook:
   base_url: https://sctp-ds2f-gemini-wh-demo.onrender.com
